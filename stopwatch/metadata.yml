@@ -1,0 +1,14 @@
+---
+:id: 145030748
+:submitters:
+- :name: Aaveg Jain
+  :email: cs1210073@iitd.ac.in
+- :name: Ashish Arora
+  :email: cs1210069@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-30 17:07:55.264109000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-30 10:07:55.264109000 Z
+:status: processed
+:score: 25.0
